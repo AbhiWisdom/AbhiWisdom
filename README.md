@@ -1,3 +1,9 @@
+<div align="center">
+
+![Banner](banner.png)
+
+</div>
+
 # 👋 Hey there! I'm Abhiraj
 
 <div align="center">
