@@ -2,15 +2,9 @@
 
 <div align="center">
 
-![Banner](banner.png)
-
-</div>
-
 # 👋 Hey there! I'm Abhiraj
 
-<div align="center">
-  
-### Full Stack Developer | AI & Bot Builder | Building AbhiBots.com
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=I+build+AI+Bots+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%9C%A8;Building+AbhiBots.com+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 *Crafting intelligent bots and modern web applications from India 🇮🇳*
 
@@ -75,6 +69,8 @@ An AI-powered development assistant designed to supercharge your coding workflow
 ![Abhiraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhiWisdom&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiWisdom&layout=compact&theme=tokyonight&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AbhiWisdom&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
